@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mqu-HabitTracker</string>
+    <string name="add">Add</string>
+    <string name="my_habits">My Habits</string>
+    <string name="habit_title_time">Habit Title, Time</string>
+    <string name="delete_all">delete all</string>
+    <string name="clean_record">clean record</string>
+</resources>
